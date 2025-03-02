@@ -1,0 +1,6 @@
+flask
+ibm-watson
+requests
+gunicorn  
+pytest
+
